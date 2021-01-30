@@ -1,5 +1,6 @@
 import './App.css';
 import BeatBox from "./components/BeatBox/BeatBox";
+import BeatBoxKey from './components/BeatBox/BeatBoxKey'
 import Keyboard from "./components/Keyboard/Keyboard";
 import Options from "./components/Options/Options";
 
@@ -16,7 +17,13 @@ function App() {
         <p>Lorem ipsum ut dolor et asd;lkjasd;flkj</p>
         <div>
           <div style={{ display: 'flex', height: 200}}>
-            <BeatBox/>
+            <BeatBox>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+            </BeatBox>
             <Keyboard/>
           </div>
           <br></br>
