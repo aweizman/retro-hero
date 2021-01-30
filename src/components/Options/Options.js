@@ -6,7 +6,9 @@ const Options = () => {
     let [responseObj, setResponseObj] = useState({});
 
     return (
-        <p>Lorem Ipsum</p>
+        <div className="Options-menu">
+            <p>Lorem Ipsum</p>
+        </div>        
     )
 
 }

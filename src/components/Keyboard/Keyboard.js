@@ -6,7 +6,9 @@ const Keyboard = () => {
     let [responseObj, setResponseObj] = useState({});
 
     return (
-        <p>Lorem Ipsum</p>
+        <div className="Keyboard-layout">
+            <p>Lorem Ipsum</p>
+        </div>
     )
 
 }

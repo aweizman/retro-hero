@@ -6,7 +6,9 @@ const BeatBox = () => {
     let [responseObj, setResponseObj] = useState({});
 
     return (
-        <p>Lorem Ipsum</p>
+        <div className="BeatBox-layout">
+            <p>Lorem Ipsum</p>
+        </div>
     )
 
 }
