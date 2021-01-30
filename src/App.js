@@ -11,11 +11,17 @@ function App() {
           Retro Hero
         </h1>
       </header>
+
       <main>
         <p>Lorem ipsum ut dolor et asd;lkjasd;flkj</p>
-        <BeatBox />
-        <Keyboard />
-        <Options />
+
+        <div className="rowC">
+          <BeatBox />
+          <Keyboard />
+          {/*<Options />*/}
+        </div>
+
+
       </main>
       
       <footer>
