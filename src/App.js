@@ -3,6 +3,8 @@ import BeatBox from "./components/BeatBox/BeatBox";
 import BeatBoxKey from './components/BeatBox/BeatBoxKey'
 import Keyboard from "./components/Keyboard/Keyboard";
 import Options from "./components/Options/Options";
+import PlayerButton from "./components/Options/PlayerButton"
+import VolumeBar from './components/Options/VolumeBar'
 
 function App() {
   return (
@@ -18,6 +20,142 @@ function App() {
         <div>
           <div style={{ display: 'flex', height: 200}}>
             <BeatBox>
+             
+              
+              
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
+              <BeatBoxKey></BeatBoxKey>
               <BeatBoxKey></BeatBoxKey>
               <BeatBoxKey></BeatBoxKey>
               <BeatBoxKey></BeatBoxKey>
@@ -28,7 +166,10 @@ function App() {
           </div>
           <br></br>
           <div style={{display: 'flex', height: 150}}>
-            <Options/>
+            <Options>
+              <PlayerButton/>
+              <VolumeBar/>
+            </Options>
           </div>          
         </div>
         
