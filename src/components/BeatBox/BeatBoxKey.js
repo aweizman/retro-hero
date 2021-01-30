@@ -8,7 +8,7 @@ function BeatBoxKey() {
     const handleClick = (event) => {
         toggleClicked(!clicked);
     }
-    return <button type = "button" onClick = {handleClick} style = "background : red" className = {'grid-item nes-btn ${clicked ? "isPrimary" : ""}'}></button>
+    return <button type = "button" onClick = {handleClick} className = {'grid-item nes-btn ${clicked ? "isPrimary" : ""}'}></button>
 }
 
 export default BeatBoxKey;
