@@ -24,11 +24,11 @@ function App() {
               <BeatBoxKey></BeatBoxKey>
               <BeatBoxKey></BeatBoxKey>
             </BeatBox>
-            <Keyboard/>
+            <Options/>
           </div>
           <br></br>
-          <div style={{display: 'flex', height: 150}}>
-            <Options/>
+          <div style={{display: 'flex', height: 300}}>
+            <Keyboard/>
           </div>          
         </div>
         
