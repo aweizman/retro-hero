@@ -14,12 +14,17 @@ function App() {
 
       <main>
         <p>Lorem ipsum ut dolor et asd;lkjasd;flkj</p>
-
-        <div className="rowC">
-          <BeatBox />
-          <Keyboard />
-          {/*<Options />*/}
+        <div>
+          <div style={{ display: 'flex', height: 200}}>
+            <BeatBox/>
+            <Keyboard/>
+          </div>
+          <br></br>
+          <div style={{display: 'flex', height: 150}}>
+            <Options/>
+          </div>          
         </div>
+        
 
 
       </main>
