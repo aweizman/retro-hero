@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.Options-menu {
+  background-color: #575151;
+  align-items: center;
+  justify-content: center;
+}
+
+.Keybaord-layout {
+  background-color: white;
+}
+
+.BeatBox-layout {
+  background-color: gray;
+}
