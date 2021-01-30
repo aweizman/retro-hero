@@ -18,14 +18,6 @@ const Keyboard = () => {
             }
         });
 
-        C4.play((success) => {
-            if (success) {
-              console.log('successfully finished playing');
-            } else {
-              console.log('playback failed due to audio decoding errors');
-            }            
-        });
-
     }
 
     return (
