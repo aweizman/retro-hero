@@ -1,0 +1,116 @@
+[33mcommit 975230548d0e9c6176e0a79df6acf53aeb64a780[m[33m ([m[1;36mHEAD -> [m[1;32msounds[m[33m, [m[1;31morigin/sounds[m[33m)[m
+Author: Adam Weizman <adamweizman@gmail.com>
+Date:   Sat Jan 30 16:35:59 2021 -0500
+
+    added test button fxnality
+
+[33mcommit 1285296f0afcc578952d58184b3231f06a408a7d[m
+Author: Adam Weizman <adamweizman@gmail.com>
+Date:   Sat Jan 30 16:28:40 2021 -0500
+
+    added button that calls function that plays sound
+
+[33mcommit 52fb5043d4e7d598659aff30964fa32fd1d92df3[m
+Author: Adam Weizman <adamweizman@gmail.com>
+Date:   Sat Jan 30 16:09:14 2021 -0500
+
+    installed react-native and react-native-sound
+
+[33mcommit 6de6d1afd636a798ed3bb107dcb9a5a3e0b7e5e0[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Adam Weizman <adamweizman@gmail.com>
+Date:   Sat Jan 30 13:42:11 2021 -0500
+
+    added app.yaml file
+
+[33mcommit 7445503d681aabc12b4bbea18371dfd5d366a520[m
+Author: Adam Weizman <adamweizman@gmail.com>
+Date:   Sat Jan 30 12:18:01 2021 -0500
+
+    set logo toswamphacks logo
+
+[33mcommit 50b7a75972f7d9d6f624aef5437c9d0fb9a1f949[m
+Merge: 49b9d7a b835354
+Author: Adam Weizman <adamweizman@gmail.com>
+Date:   Sat Jan 30 12:12:54 2021 -0500
+
+    Merge pull request #1 from aweizman/front-end-start
+    
+    Front end start
+
+[33mcommit 49b9d7a07a3dd4737091031461a1a7e454a54356[m
+Author: Adam Weizman <adamweizman@gmail.com>
+Date:   Sat Jan 30 11:58:48 2021 -0500
+
+    Update README.md
+
+[33mcommit b835354d35b8c612588264c1cbbe8e825383b32c[m[33m ([m[1;31morigin/front-end-start[m[33m, [m[1;32mfront-end-start[m[33m)[m
+Author: Adam Weizman <adamweizman@gmail.com>
+Date:   Sat Jan 30 11:57:03 2021 -0500
+
+    organized components correctly
+
+[33mcommit b0f8b25cfc790014b4b3db56b9ea0f9f0ad681e0[m
+Author: Zach Curran <curran.zach@gmail.com>
+Date:   Sat Jan 30 10:08:52 2021 -0500
+
+    Added image/sound assets
+
+[33mcommit 90c1dd6dcefda6fac6521153c81571f40748bf2c[m
+Author: Adam Weizman <adamweizman@gmail.com>
+Date:   Sat Jan 30 02:01:22 2021 -0500
+
+    unable to make react components go side-by-side
+
+[33mcommit c786a6568ddb3a7ae8c873174e410a061cf9d80f[m
+Author: Adam Weizman <adamweizman@gmail.com>
+Date:   Sat Jan 30 01:32:58 2021 -0500
+
+    added github logo and link to repo
+
+[33mcommit de2402b04156f65ff28bd23f9b1981b87d44d9c6[m
+Author: Adam Weizman <adamweizman@gmail.com>
+Date:   Sat Jan 30 01:10:08 2021 -0500
+
+    added beatbox component
+
+[33mcommit 09579b126a1807239c19080dcae39a06f84dd8b0[m
+Author: Adam Weizman <adamweizman@gmail.com>
+Date:   Sat Jan 30 01:06:30 2021 -0500
+
+    changed bckgrnd colors of components to stand out
+
+[33mcommit f3b99d58f7f2b8fc426131de4b9aba697b7b292e[m
+Author: Adam Weizman <adamweizman@gmail.com>
+Date:   Sat Jan 30 00:55:26 2021 -0500
+
+    added specific css classes for the components
+
+[33mcommit becc6a396650bf783951353c19569c314f99c118[m
+Author: Adam Weizman <adamweizman@gmail.com>
+Date:   Sat Jan 30 00:51:08 2021 -0500
+
+    added swamphacks logo to files
+
+[33mcommit 8501dffb59a8d21bad02e1cc034ef3e7f3872aa8[m
+Author: Adam Weizman <adamweizman@gmail.com>
+Date:   Sat Jan 30 00:47:07 2021 -0500
+
+    created components and edited css and js files
+
+[33mcommit 6764e8fedbfff325218b126598182da42ac32ff8[m
+Author: Adam Weizman <adamweizman@gmail.com>
+Date:   Sat Jan 30 00:38:25 2021 -0500
+
+    start
+
+[33mcommit 0cfe67d50ddcbf6c563ee6910f187722d0dc3d09[m
+Author: Adam Weizman <adamweizman@gmail.com>
+Date:   Sat Jan 30 00:34:41 2021 -0500
+
+    file updates
+
+[33mcommit 18681198c5ad379b441ce76c590f16ba457a00a6[m
+Author: Adam Weizman <adamweizman@gmail.com>
+Date:   Sat Jan 30 00:01:22 2021 -0500
+
+    Initialize project using Create React App
