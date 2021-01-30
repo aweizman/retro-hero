@@ -8,7 +8,12 @@ function App() {
           Retro Hero
         </h1>
       </header>
-      <p>Lorem ipsum ut dolor et asd;lkjasd;flkj</p>
+      <main>
+        <p>Lorem ipsum ut dolor et asd;lkjasd;flkj</p>
+        <BeatBox />
+      </main>
+      
+
     </div>
   );
 }
