@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import './App.css';
+import '../../App.css';
 
 const Keyboard = () => {
 
@@ -7,7 +7,6 @@ const Keyboard = () => {
 
     return (
         <div className="Keyboard-layout">
-            <p>Lorem Ipsum</p>
         </div>
     )
 

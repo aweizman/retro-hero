@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import './App.css';
+import '../../App.css';
 
 const Options = () => {
 
@@ -7,7 +7,6 @@ const Options = () => {
 
     return (
         <div className="Options-menu">
-            <p>Lorem Ipsum</p>
         </div>        
     )
 

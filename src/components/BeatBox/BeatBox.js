@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import './App.css';
+import '../../App.css';
 
 const BeatBox = () => {
 
@@ -7,7 +7,6 @@ const BeatBox = () => {
 
     return (
         <div className="BeatBox-layout">
-            <p>Lorem Ipsum</p>
         </div>
     )
 
