@@ -74,6 +74,6 @@
   z-index: 2;
 }
 
-.key.clicked, .key.sharp.clicked {
+.key.pressed, .key.sharp.pressed {
   background-color: lightblue;
 }
