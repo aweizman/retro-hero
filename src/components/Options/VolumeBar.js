@@ -1,5 +1,12 @@
-import React, { useState } from 'react'
+import React, { Component } from 'react'
 import '../../App.css'
+import {
+    AppRegistry,
+    StyleSheet,
+    Text,
+    View
+  } from 'react-native';
+  import VolumeSlider from 'react-native-volume-slider'
 
 function VolumeBar(){
     return (
