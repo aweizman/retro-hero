@@ -66,7 +66,7 @@ class Keyboard extends React.Component {
                 <audio
                     id={note}
                     key={index}
-                    src={`../../../public/sounds/${note}.mp3`}
+                    src={`../../../sounds/${note}.mp3`}
                     />
             );
         });
