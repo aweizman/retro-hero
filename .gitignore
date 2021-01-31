@@ -23,6 +23,9 @@ yarn-debug.log*
 yarn-error.log*
 <<<<<<< HEAD
 .eslintcache
+<<<<<<< HEAD
 =======
 .eslintcache
+>>>>>>> parent of ed9be36... ignore stuff
+=======
 >>>>>>> parent of ed9be36... ignore stuff
