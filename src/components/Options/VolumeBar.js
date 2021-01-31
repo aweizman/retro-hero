@@ -1,12 +1,8 @@
-import React, { useState } from 'react'
-import '../../App.css'
-
-function VolumeBar(){
-    return (
-    <div>
-        <p>test</p>
-    </div>
-    )
-    
+import React from 'react'
+import '../../../node_modules/nes.css/css/nes.css'
+function VolumeBar(props) {
+    var data = props.data;
+    return <progress className = 'nes-progress' value = "data"></progress>
 }
+
 export default VolumeBar;

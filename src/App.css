@@ -56,7 +56,6 @@ p {
   margin-left: 5%;
 }
 
-<<<<<<< HEAD
 .play{
   height: 74px;
   border-style: solid;
@@ -70,7 +69,8 @@ p {
   border-style: double;
   border-width: 0px 0px 0px 74px;
   border-color: #202020;
-=======
+}
+
 .keyboard {
   display: flex;
   flex-direction: row;
@@ -96,5 +96,4 @@ p {
 
 .key.pressed, .key.sharp.pressed {
   background-color: lightblue;
->>>>>>> keyboard-testing
 }
