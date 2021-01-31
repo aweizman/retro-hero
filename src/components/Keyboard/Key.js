@@ -1,7 +1,7 @@
-+import React from 'react';
+import React, {useState} from 'react';
 import _ from 'lodash';
 import '../../App.css';
-import {NOTE_TO_KEY} from '../global/notes'
+import {NOTE_TO_KEY} from '../global/notes';
 
 class Key extends React.Component {
     sharpNote = (note) => { // Check length of name, if longer than 2 it is sharp
