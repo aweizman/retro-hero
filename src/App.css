@@ -1,15 +1,10 @@
 .App {
   text-align: center;
-  background-image: url("2021-background.f3ce6593.jpg")
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
-}
-
-p {
-  color: white;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -43,7 +38,13 @@ p {
 }
 
 .Options-menu {
+  background-color: #084200;
+  height: 100%;
+  width: 70%;
+  margin-left: 15%;
+}
 
+.Keyboard-layout {
   background-color: rgb(255, 0, 0);
   height: 100%;
   width: 20%;
@@ -56,7 +57,6 @@ p {
   margin-left: 5%;
 }
 
-<<<<<<< HEAD
 .play{
   height: 74px;
   border-style: solid;
@@ -70,31 +70,4 @@ p {
   border-style: double;
   border-width: 0px 0px 0px 74px;
   border-color: #202020;
-=======
-.keyboard {
-  display: flex;
-  flex-direction: row;
-  margin: 0 auto;
-}
-
-.key {
-  background-color: white;
-  height: 250px;
-  width: 60px;
-  border: 2px solid black;
-}
-
-.key.sharp {
-  position: relative;
-  background-color: black;
-  margin-left: -17px;
-  margin-right: -17px;
-  height: 125px;
-  width: 30px;
-  z-index: 2;
-}
-
-.key.pressed, .key.sharp.pressed {
-  background-color: lightblue;
->>>>>>> keyboard-testing
 }

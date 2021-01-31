@@ -16,8 +16,8 @@ function App() {
       </header>
 
       <main>
-      <div>
         <p>Lorem ipsum ut dolor et asd;lkjasd;flkj</p>
+        <div>
           <div style={{ display: 'flex', height: 200}}>
             <BeatBox>
              
@@ -162,22 +162,18 @@ function App() {
               <BeatBoxKey></BeatBoxKey>
               <BeatBoxKey></BeatBoxKey>
             </BeatBox>
-            <Options/>
+            <Keyboard/>
           </div>
           <br></br>
-<<<<<<< HEAD
           <div style={{display: 'flex', height: 150}}>
             <Options>
               <PlayerButton/>
               <VolumeBar/>
             </Options>
-=======
-          <div style={{display: 'flex', height: 300}}>
-            <Keyboard/>
->>>>>>> keyboard-testing
           </div>          
         </div>
         
+
 
       </main>
       
