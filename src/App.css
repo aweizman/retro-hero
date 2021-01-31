@@ -1,10 +1,15 @@
 .App {
   text-align: center;
+  background-image: url("2021-background.f3ce6593.jpg")
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+p {
+  color: white;
 }
 
 @media (prefers-reduced-motion: no-preference) {

@@ -14,8 +14,8 @@ function App() {
       </header>
 
       <main>
+      <div>
         <p>Lorem ipsum ut dolor et asd;lkjasd;flkj</p>
-        <div>
           <div style={{ display: 'flex', height: 200}}>
             <BeatBox>
               <BeatBoxKey></BeatBoxKey>
@@ -32,7 +32,6 @@ function App() {
           </div>          
         </div>
         
-
 
       </main>
       
