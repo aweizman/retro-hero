@@ -21,4 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
 .eslintcache
+=======
+.eslintcache
+>>>>>>> parent of ed9be36... ignore stuff
