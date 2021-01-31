@@ -63,7 +63,7 @@ function App() {
             </Options>
           </div>
           <br></br>
-          <div style={{display: 'flex', height: 813}}>
+          <div style={{display: 'flex', height: 700}}>
             <Keyboard/>
 
           </div>          
