@@ -5,6 +5,8 @@ import Keyboard from "./components/Keyboard/Keyboard";
 import Options from "./components/Options/Options";
 import PlayerButton from "./components/Options/PlayerButton"
 import VolumeBar from './components/Options/VolumeBar'
+import AdvanceButton from './components/Options/AdvanceButton'
+import RevertButton from './components/Options/RevertButton'
 
 function App() {
   return (
@@ -20,9 +22,6 @@ function App() {
         <div>
           <div style={{ display: 'flex', height: 200}}>
             <BeatBox>
-             
-              
-              
               <BeatBoxKey></BeatBoxKey>
               <BeatBoxKey></BeatBoxKey>
               <BeatBoxKey></BeatBoxKey>
@@ -55,121 +54,18 @@ function App() {
               <BeatBoxKey></BeatBoxKey>
               <BeatBoxKey></BeatBoxKey>
               <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-              <BeatBoxKey></BeatBoxKey>
-            </BeatBox>
+       
+            </BeatBox>            
+            <Options>
+              <RevertButton/>
+              <PlayerButton/>
+              <AdvanceButton/>
+            </Options>
             <Keyboard/>
           </div>
           <br></br>
           <div style={{display: 'flex', height: 150}}>
-            <Options>
-              <PlayerButton/>
-              <VolumeBar/>
-            </Options>
+
           </div>          
         </div>
         
