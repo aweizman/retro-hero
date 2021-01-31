@@ -1,15 +1,10 @@
 .App {
   text-align: center;
-  background-image: url("2021-background.f3ce6593.jpg")
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
-}
-
-p {
-  color: white;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -43,7 +38,14 @@ p {
 }
 
 .Options-menu {
+  background-color: #084200;
+  height: 100%;
+  width: 70%;
+  margin-left: 15%;
+}
 
+
+.Keyboard-layout {
   background-color: dodgerblue;
   height: 100%;
   width: 20%;
@@ -69,6 +71,7 @@ p {
   border-style: double;
   border-width: 0px 0px 0px 74px;
   border-color: #202020;
+
 }
 
 .keyboard {

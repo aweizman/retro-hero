@@ -54,18 +54,20 @@ function App() {
               <BeatBoxKey></BeatBoxKey>
               <BeatBoxKey></BeatBoxKey>
               <BeatBoxKey></BeatBoxKey>
+
        
             </BeatBox>            
+
             <Options>
               <RevertButton/>
               <PlayerButton/>
               <AdvanceButton/>
             </Options>
+
           </div>
           <br></br>
           <div style={{display: 'flex', height: 700}}>
             <Keyboard/>
-
           </div>          
         </div>
         
