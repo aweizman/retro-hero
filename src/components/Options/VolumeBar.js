@@ -20,7 +20,7 @@ export default class VolumeBar extends Component {
                   thumbTintColor="rgb(146,146,157)"
                   minimumTrackTintColor="rgb(146,146,157)"
                   maximumTrackTintColor="rgba(255,255,255, 0.1)"
-                  showsRouteButton
+                  showsRouteButton={true}
                 />
             </View>
         )
