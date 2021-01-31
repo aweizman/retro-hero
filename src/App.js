@@ -66,7 +66,7 @@ function App() {
 
           </div>
           <br></br>
-          <div style={{display: 'flex', height: 700}}>
+          <div style={{display: 'flex', height: 813}}>
             <Keyboard/>
           </div>          
         </div>
